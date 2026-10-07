@@ -79,3 +79,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+### Hallo ich brauche zumm ersten mal VS Code und ich habe keine Ahnung wie ich das machen soll. Kannst du mir bitte helfen?
